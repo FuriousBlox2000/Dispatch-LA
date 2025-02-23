@@ -4,18 +4,20 @@ document.getElementById("login-form").addEventListener("submit", function (event
     const identifiant = document.getElementById("identifiant").value;
     const password = document.getElementById("password").value;
 
-    fetch("../database/comptes.json") // ✅ Charge les comptes depuis le JSON
-        .then(response => response.json())
-        .then(data => {
-            const users = data.users;
-            const user = users.find(u => u.username === identifiant && u.password === password);
+    fetch("https://api.jsonbin.io/v3/b/67bb56a4ad19ca34f80f69f0/latest", {
+        headers: { "X-Master-Key": "$2a$10$2SQuMlcb08504.lkYUFZrOVwEhnLOy9TOw/SLJvegIuyG0gntU6Ni" }
+    })
+    .then(response => response.json())
+    .then(data => {
+        const users = data.record; // 📌 Les utilisateurs sont stockés sous "record"
+        const user = users.find(u => u.username === identifiant && u.password === password);
 
-            if (user) {
-                localStorage.setItem("user", identifiant); // ✅ Stocke l'utilisateur
-                window.location.href = "../pages/dashboard.html"; // ✅ Redirection après connexion
-            } else {
-                alert("Identifiant ou mot de passe incorrect !");
-            }
-        })
-        .catch(error => console.error("Erreur lors du chargement du JSON:", error));
+        if (user) {
+            localStorage.setItem("user", JSON.stringify(user)); // ✅ Stocke l'utilisateur
+            window.location.href = "../pages/dashboard.html"; // ✅ Redirection après connexion
+        } else {
+            alert("Identifiant ou mot de passe incorrect !");
+        }
+    })
+    .catch(error => console.error("Erreur lors du chargement des comptes:", error));
 });
