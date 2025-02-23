@@ -3,18 +3,22 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function loadAccounts() {
-    fetch("../database/comptes.json")
-        .then(response => response.json())
-        .then(users => {
-            const accountList = document.getElementById("account-list");
-            accountList.innerHTML = "";
-            users.forEach(user => {
-                const div = document.createElement("div");
-                div.innerText = `${user.username} - ${user.rank}`;
-                accountList.appendChild(div);
-            });
-        })
-        .catch(error => console.error("Erreur de chargement des comptes:", error));
+    fetch("https://api.jsonbin.io/v3/b/67bb56a4ad19ca34f80f69f0/latest", {
+        headers: { "X-Master-Key": "$2a$10$2SQuMlcb08504.lkYUFZrOVwEhnLOy9TOw/SLJvegIuyG0gntU6Ni" }
+    })
+    .then(response => response.json())
+    .then(data => {
+        const users = data.record; // Les utilisateurs sont stockés sous "record"
+        const accountList = document.getElementById("account-list");
+        accountList.innerHTML = "";
+
+        users.forEach(user => {
+            const div = document.createElement("div");
+            div.innerText = `${user.username} - ${user.rank}`;
+            accountList.appendChild(div);
+        });
+    })
+    .catch(error => console.error("Erreur de chargement des comptes:", error));
 }
 
 function addUser() {
@@ -26,15 +30,11 @@ function addUser() {
         return;
     }
 
-    fetch("../database/comptes.json")
-        .then(response => response.json())
-        .then(users => {
-            users.push({ username, rank });
+    console.log("Nouvel utilisateur ajouté:", { username, rank });
 
-            // Enregistrer dans le fichier JSON (nécessite un serveur backend)
-            console.log("Nouvel utilisateur ajouté:", { username, rank });
-
-            loadAccounts();
-        })
-        .catch(error => console.error("Erreur d'ajout:", error));
+    // Mise à jour de l'affichage localement (mais ne modifie pas JSONBin)
+    const accountList = document.getElementById("account-list");
+    const div = document.createElement("div");
+    div.innerText = `${username} - ${rank}`;
+    accountList.appendChild(div);
 }
