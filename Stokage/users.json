@@ -6,7 +6,7 @@
     "rank": "captain",
     "role": "captain",
     "division": "Administration",
-    "password": "captain123",
+    "password": "captain",
     "permissions": {
       "dispatch": true,
       "communications": true,
