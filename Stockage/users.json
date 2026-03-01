@@ -19,8 +19,8 @@
       "token": true,
       "canCreateReports": true,
       "canEditReports": true,
-      "canDeleteReports": false,
-      "canAccessCriminalRecords": false,
+      "canDeleteReports": true,
+      "canAccessCriminalRecords": true,
       "canManageWiretaps": true,
       "canManageSeizures": true
     }
