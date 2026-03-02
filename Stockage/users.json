@@ -24,7 +24,8 @@
       "canManageWiretaps": true,
       "canManageSeizures": true
     },
-    "matricule": ""
+    "matricule": "",
+    "division": "Traffic Division"
   },
   {
     "badge": "7191",
