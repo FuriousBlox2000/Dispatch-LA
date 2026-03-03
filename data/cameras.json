@@ -20,12 +20,12 @@
     "zone": "Hollywood",
     "status": "recording",
     "videoUrl": "https://wzmedia.dot.ca.gov/D7/CCTV-101.stream/chunklist_w918580210.m3u8",
-    "type": "m3u8",
+    "type": "stream",
     "coordinates": {
       "lat": 200,
       "lng": 350
     },
-    "lastUpdate": "03/03/2026 23:52:35"
+    "lastUpdate": "03/03/2026 23:53:42"
   },
   {
     "id": "3",
