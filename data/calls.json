@@ -6,6 +6,7 @@
     "address": "1203 Alta Street",
     "priority": "medium",
     "time": "20:47",
-    "status": "pending"
+    "status": "assigned",
+    "assignedUnit": "1772567138060"
   }
 ]
