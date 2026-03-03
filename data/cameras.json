@@ -33,13 +33,13 @@
     "location": "Rodeo Drive & Wilshire Blvd",
     "zone": "Beverly Hills",
     "status": "online",
-    "videoUrl": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1772598262/ei/ll-naaG1Lqm2mLAPg9zmiQ4/ip/2a01:cb04:c41:d00:e541:7357:ed6e:eab9/id/98jOtUeM3m8.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr4---sn-25ge7nzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AVNa5-yYzey-bCdyrNMm4kvPvfboknCTWvaSgM3tA_2MyVFqYHjSdMfjIJQ7cWGN-9hyqHtDgDcdwpiU/spc/6dlaFOetoVtuU2rARfcALN2Gdws62beVbtQ1tk_WSK5YDpOv_VsooB2KX-kBBBTTlaCj_Q/vprv/1/ns/X02VVsnmKwM_Fptz80R20l4T/playlist_type/DVR/initcwndbps/3120000/met/1772576664,/mh/yZ/mm/44/mn/sn-25ge7nzk/ms/lva/mv/m/mvi/4/pl/41/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968,51791334/n/fWMpcacI2p45rJycyuT/mt/1772576197/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,playlist_type/sig/AHEqNM4wRgIhAIE5h6HnBWgRvFiZ_y28NYi1OoULhr1TEeBm7m9DSr3lAiEAvunIAeV7hYXQs2BgAMaH2d3jdxNUKNiHotYHeBa1NK8%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgeHGgAJlMU5xIEgtdRgGA57ZKwRanJKNHh54g7WxNlxICIQDLuOx5f6cFg5w0cU92hltLxDMkGwp-yM1BApm0aZ3law%3D%3D/playlist/index.m3u8",
+    "videoUrl": "https://youtu.be/98jOtUeM3m8",
     "type": "m3u8",
     "coordinates": {
       "lat": 300,
       "lng": 450
     },
-    "lastUpdate": "03/03/2026 23:24:45"
+    "lastUpdate": "03/03/2026 23:26:18"
   },
   {
     "id": "4",
