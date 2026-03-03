@@ -9,6 +9,11 @@
       "id": "be0cb969-1c2c-42cd-872f-3959de6d3603",
       "name": "Police Academy Division",
       "subdivisions": []
+    },
+    {
+      "id": "52865268-d0f4-4096-b8f4-5adb9fab598d",
+      "name": "Traffic Division",
+      "subdivisions": []
     }
   ]
 }
