@@ -34,12 +34,12 @@
     "zone": "Beverly Hills",
     "status": "online",
     "videoUrl": "",
-    "type": "m3u8",
+    "type": "stream",
     "coordinates": {
       "lat": 300,
       "lng": 450
     },
-    "lastUpdate": "03/03/2026 23:53:00"
+    "lastUpdate": "03/03/2026 23:53:29"
   },
   {
     "id": "4",
