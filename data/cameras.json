@@ -5,13 +5,13 @@
     "location": "Intersection Spring St & 1st St",
     "zone": "Downtown",
     "status": "online",
-    "videoUrl": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1772590625/ei/wUGnacjhCeugvdIPybH3kAo/ip/2a01:cb04:c41:d00:e541:7357:ed6e:eab9/id/98jOtUeM3m8.3/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/rqh/1/hls_chunk_host/rr4---sn-25ge7nzk.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/ss/1/ssa/1/bui/AVNa5-yygHm3pEM8sgcCKreLlsAKEPItOpXe2Wyj7Fi75mOLeWgpsZtri4i6ZO4s86XmNDsAW6IXA9GK/spc/6dlaFHVm0iMjX5Q3fjuTnfAKTetS-wX3FQNyKyDxW0y5zXqeuB6O6yNb5GdISy4oTo14ZA/vprv/1/ns/odQmbsePkXt6RqxSrQJpRGIT/playlist_type/DVR/initcwndbps/2856250/met/1772569026,/mh/yZ/mm/44/mn/sn-25ge7nzk/ms/lva/mv/m/mvi/4/pl/41/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565116,51565681,51580968,51791334/n/mTC3eSoO-BLaP5eXwOC/mt/1772568782/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,ss,ssa,bui,spc,vprv,ns,playlist_type/sig/AHEqNM4wRQIhAL5WvzoVAmkfCTcXl9YZ5LEyDbRI3hyNOX2d1-AxWd10AiBtyt1GbW7E2xpdQ7lV9PVxTTzreZhGEfiITcY6FIex8w%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhALDh2LoT3LEiaAA__xs6YlKWWwviwN5ylt7uo5I75O4tAiEA29w5p_Lv92664QSqUTNzvf_ZStf-8mPAoe4vDA4En9Y%3D/playlist/index.m3u8",
-    "type": "m3u8",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "type": "mp4",
     "coordinates": {
       "lat": 150,
       "lng": 200
     },
-    "lastUpdate": "03/03/2026 21:17:57"
+    "lastUpdate": "03/03/2026 23:15:40"
   },
   {
     "id": "2",
@@ -19,13 +19,13 @@
     "location": "Hollywood Blvd & Highland Ave",
     "zone": "Hollywood",
     "status": "recording",
-    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-    "type": "mp4",
+    "videoUrl": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1772597704/ei/aF2naajuDdaDi9oP-rih6Q4/ip/2a01:cb04:c41:d00:e541:7357:ed6e:eab9/id/NsmJg4oSDVg.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/rqh/1/hls_chunk_host/rr5---sn-25glenlr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/AVNa5-wzoGjGVqgBaVHfUNPcKX_zOfymVhguGz12cj36OBiwEH-AhBYgjd0TjlzIu3pgCDz4FfGZqa2E/spc/6dlaFHVkycLTAV0bur468LGwg7dUAJMYFCUJpNdPQzozdQ8QabN9icYKYNDYB5fE_HHNFw/vprv/1/ns/DPHEVJJRS4_RS2-Wh8SShToT/playlist_type/LIVE/initcwndbps/3062500/met/1772576105,/mh/gT/mm/44/mn/sn-25glenlr/ms/lva/mv/m/mvi/5/pl/41/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51552689,51565115,51565681,51580968,51791334/n/gLNyfg-TG-tdu7x6F-B/mt/1772575729/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,ns,playlist_type/sig/AHEqNM4wRQIgWN-NSx1vf0qRvg9KyQrmFHWY-sPNiXiOP46xOcEqTawCIQDKVdvJt5-bVQidhmR043MKMMn68oBQHD11FPn1th-WmA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgIMMjGkYA_VnqEOpFC-pMUfKLbyKrHc1WfOgmg6mO4LUCICySjh7nFXJOUjQLN4-cuQmHwG4J-NKFpZKMn7ZbvRtE/playlist/index.m3u8",
+    "type": "m3u8",
     "coordinates": {
       "lat": 200,
       "lng": 350
     },
-    "lastUpdate": "03/03/2026 21:10:09"
+    "lastUpdate": "03/03/2026 23:15:50"
   },
   {
     "id": "3",
@@ -33,13 +33,13 @@
     "location": "Rodeo Drive & Wilshire Blvd",
     "zone": "Beverly Hills",
     "status": "online",
-    "videoUrl": "https://www.justice.gov/epstein/files/DataSet%208/EFTA00033013.mp4",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
     "type": "mp4",
     "coordinates": {
       "lat": 300,
       "lng": 450
     },
-    "lastUpdate": "03/03/2026 21:11:35"
+    "lastUpdate": "03/03/2026 23:15:40"
   },
   {
     "id": "4",
@@ -53,6 +53,6 @@
       "lat": 450,
       "lng": 150
     },
-    "lastUpdate": "03/03/2026 21:10:09"
+    "lastUpdate": "03/03/2026 23:15:40"
   }
 ]
