@@ -3,7 +3,12 @@
     {
       "id": "aae2352e-c23f-4f72-be2f-8c07110d44a8",
       "name": "Major Crime Division",
-      "subdivisions": []
+      "subdivisions": [
+        {
+          "id": "773bd52c-1843-4a9d-9a46-f9ab5c6a80c0",
+          "name": "Crime"
+        }
+      ]
     },
     {
       "id": "be0cb969-1c2c-42cd-872f-3959de6d3603",
