@@ -19,13 +19,13 @@
     "location": "Hollywood Blvd & Highland Ave",
     "zone": "Hollywood",
     "status": "recording",
-    "videoUrl": "https://live4.brownrice.com:444/westland/westland.stream/chunklist_w614847154.m3u8",
+    "videoUrl": "https://cdn.discordapp.com/attachments/966008777654542356/1446955738269352046/intro.mp4?ex=69a9394b&is=69a7e7cb&hm=8ba85bcf679779a921dee3358c5917fbc3816d3314ba1c6ade8492d72d107c94&",
     "type": "mp4",
     "coordinates": {
       "lat": 200,
       "lng": 350
     },
-    "lastUpdate": "04/03/2026 14:52:48"
+    "lastUpdate": "04/03/2026 15:02:28"
   },
   {
     "id": "3",
