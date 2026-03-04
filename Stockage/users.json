@@ -36,7 +36,11 @@
     "divisions": "Major Crime Division",
     "password": "@NFOe156defa",
     "matricule": "",
-    "permissions": {}
+    "permissions": {},
+    "phone": "(555) 513-5896",
+    "email": "Masson@mail.com",
+    "iban": "DS588DF236",
+    "idNumber": "786222577970315275"
   },
   {
     "badge": "0201",
