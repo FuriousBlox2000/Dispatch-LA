@@ -9,14 +9,9 @@
     },
     "officers": [
       {
-        "badge": "7191",
+        "matricule": "02",
         "name": "Alex Masson",
         "rank": "Lieutenant"
-      },
-      {
-        "badge": "0201",
-        "name": "Lewis Atkins",
-        "rank": "Police Officer I"
       }
     ],
     "vehicle": {
