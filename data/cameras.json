@@ -11,7 +11,7 @@
       "lat": 150,
       "lng": 200
     },
-    "lastUpdate": "03/03/2026 23:15:40"
+    "lastUpdate": "04/03/2026 14:42:43"
   },
   {
     "id": "2",
@@ -19,13 +19,13 @@
     "location": "Hollywood Blvd & Highland Ave",
     "zone": "Hollywood",
     "status": "recording",
-    "videoUrl": "https://wzmedia.dot.ca.gov/D7/CCTV-101.stream/chunklist_w918580210.m3u8",
-    "type": "stream",
+    "videoUrl": " https://live4.brownrice.com:444/westland/westland.stream/main_playlist.m3u8",
+    "type": "m3u8",
     "coordinates": {
       "lat": 200,
       "lng": 350
     },
-    "lastUpdate": "03/03/2026 23:53:42"
+    "lastUpdate": "04/03/2026 14:48:29"
   },
   {
     "id": "3",
@@ -33,13 +33,13 @@
     "location": "Rodeo Drive & Wilshire Blvd",
     "zone": "Beverly Hills",
     "status": "online",
-    "videoUrl": "",
-    "type": "stream",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "type": "mp4",
     "coordinates": {
       "lat": 300,
       "lng": 450
     },
-    "lastUpdate": "03/03/2026 23:53:29"
+    "lastUpdate": "04/03/2026 14:42:43"
   },
   {
     "id": "4",
@@ -53,6 +53,6 @@
       "lat": 450,
       "lng": 150
     },
-    "lastUpdate": "03/03/2026 23:15:40"
+    "lastUpdate": "04/03/2026 14:42:43"
   }
 ]
