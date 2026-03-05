@@ -31,7 +31,17 @@
       "lead": "7191",
       "coLead": null,
       "members": [],
-      "subdivisions": [],
+      "subdivisions": [
+        {
+          "id": "796f30e5-f002-4cbd-9a59-9ff7bd342be5",
+          "name": "Cyber",
+          "lead": "0201",
+          "coLead": null,
+          "members": [],
+          "createdBy": "7191",
+          "createdAt": "2026-03-05T14:19:09.639Z"
+        }
+      ],
       "ranks": [],
       "createdBy": "7191",
       "createdAt": "2026-03-05T14:18:46.455Z"
