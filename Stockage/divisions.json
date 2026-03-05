@@ -1,3 +1,15 @@
 {
-  "divisions": []
+  "divisions": [
+    {
+      "id": "7e04d475-873a-4306-999f-14899b177381",
+      "name": "Police Academy",
+      "lead": "7191",
+      "coLead": "0201",
+      "members": [],
+      "subdivisions": [],
+      "ranks": [],
+      "createdBy": "7191",
+      "createdAt": "2026-03-05T14:16:50.440Z"
+    }
+  ]
 }
