@@ -24,6 +24,17 @@
       ],
       "createdBy": "7191",
       "createdAt": "2026-03-05T14:16:50.440Z"
+    },
+    {
+      "id": "597fdc9c-8684-4fca-a786-42fe846ba402",
+      "name": "Major Crime Division",
+      "lead": "7191",
+      "coLead": null,
+      "members": [],
+      "subdivisions": [],
+      "ranks": [],
+      "createdBy": "7191",
+      "createdAt": "2026-03-05T14:18:46.455Z"
     }
   ]
 }
