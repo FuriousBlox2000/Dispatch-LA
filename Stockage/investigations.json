@@ -6,7 +6,7 @@
     "description": "Homicide de Mr Stevenson ALFRED'S par X",
     "division": "7e04d475-873a-4306-999f-14899b177381",
     "assignedTo": "7191",
-    "status": "Ouvert",
+    "status": "Archivé",
     "priority": "Haute",
     "suspects": [],
     "vehicles": [],
@@ -14,11 +14,11 @@
     "evidence": [],
     "externalResources": [
       {
-        "id": "5ffab5b0-8327-4304-accd-c960c3ae178b",
+        "id": "4c016acb-5ab3-48e8-b1fe-c43cff9cf1d1",
         "name": "Carte retrouvé sur la victime",
-        "url": "https://media.discordapp.net/attachments/971599651243442176/1479139824878354472/lincoln.png?ex=69aaf3cf&is=69a9a24f&hm=689c32865e5a7fb459660e9f918c46e4bf813f72289c4c87b52ec76dead47926&=&format=webp&quality=lossless&width=231&height=350",
+        "url": "https://media.discordapp.net/attachments/971599651243442176/1479139824878354472/lincoln.png?ex=69f5708f&is=69f41f0f&hm=627fcd7bfcb9968e3aef03eb9a1a3cd3842c76d93f758fbf7bbe53bf5c013f78&=&format=webp&quality=lossless&width=513&height=776",
         "type": "image",
-        "addedAt": "2026-03-05T15:33:52.859Z",
+        "addedAt": "2026-05-01T10:20:33.248Z",
         "addedBy": "captain-002"
       }
     ],
@@ -31,6 +31,6 @@
     ],
     "createdAt": "2026-03-05T15:32:37.067Z",
     "createdBy": "7191",
-    "updatedAt": "2026-03-05T15:34:24.387Z"
+    "updatedAt": "2026-05-01T10:20:59.320Z"
   }
 ]
