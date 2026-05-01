@@ -1,0 +1,17 @@
+[
+  {
+    "id": "SZ-2024-001",
+    "category": "drugs",
+    "type": "MDA",
+    "description": "50 pochon de 20G de MDA chacun",
+    "location": "73ème South LS, SA",
+    "caseId": "2026-0103-A71",
+    "quantity": "1Kg",
+    "estimatedValue": "3000$",
+    "officer": "Unknown",
+    "officerBadge": "captain-002",
+    "date": "01/05/2026",
+    "status": "pending",
+    "photos": []
+  }
+]
