@@ -6,6 +6,7 @@
     "address": "28 Street Long Beach LS, SA",
     "priority": "high",
     "time": "14:26",
-    "status": "pending"
+    "status": "assigned",
+    "assignedUnit": "1777638422771"
   }
 ]
