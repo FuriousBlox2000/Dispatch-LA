@@ -1,19 +1,30 @@
 [
   {
     "id": "1777638422771",
-    "callSign": "Unit-1",
-    "status": "10-7",
+    "callSign": "Adam-71",
+    "status": "10-8",
     "location": {
       "lat": 300,
       "lng": 300
     },
-    "officers": [],
+    "officers": [
+      {
+        "matricule": "02",
+        "name": "Alex Masson",
+        "rank": "Lieutenant"
+      },
+      {
+        "matricule": "20",
+        "name": "Lewis Atkins",
+        "rank": "Police Officer I"
+      }
+    ],
     "vehicle": {
-      "make": "",
-      "model": "",
-      "plate": "",
-      "year": ""
+      "make": "Ford",
+      "model": "Stanier ",
+      "plate": "24MSD-9",
+      "year": "2002"
     },
-    "radioFrequency": "460.000 MHz"
+    "radioFrequency": "71.000 MHz"
   }
 ]
