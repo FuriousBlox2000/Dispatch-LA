@@ -5,13 +5,13 @@
     "location": "Intersection Spring St & 1st St",
     "zone": "Downtown",
     "status": "online",
-    "videoUrl": "https://cdn.discordapp.com/attachments/1216403413395443864/1439579481823121448/LSPD2.mov?ex=69a96a5e&is=69a818de&hm=a4d22057e9b515a98e25e99eb1cb36b879ad3fe2711f2d3ece5a0721fd085f97&",
+    "videoUrl": "https://cdn.discordapp.com/attachments/1216403413395443864/1498740768234410285/copy_1376E611-1DA4-4386-AEBA-792386ACE0A0.mov?ex=69f58e5c&is=69f43cdc&hm=00c1952f7e1b0fafc0dc90af1b9b63dc7882871678b0b16830860e52317a31e5&",
     "type": "mp4",
     "coordinates": {
       "lat": 150,
       "lng": 200
     },
-    "lastUpdate": "04/03/2026 15:03:03"
+    "lastUpdate": "01/05/2026 12:22:18"
   },
   {
     "id": "2",
@@ -19,13 +19,13 @@
     "location": "Hollywood Blvd & Highland Ave",
     "zone": "Hollywood",
     "status": "recording",
-    "videoUrl": "https://cdn.discordapp.com/attachments/966008777654542356/1446955738269352046/intro.mp4?ex=69a9394b&is=69a7e7cb&hm=8ba85bcf679779a921dee3358c5917fbc3816d3314ba1c6ade8492d72d107c94&",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
     "type": "mp4",
     "coordinates": {
       "lat": 200,
       "lng": 350
     },
-    "lastUpdate": "04/03/2026 15:02:28"
+    "lastUpdate": "01/05/2026 12:21:34"
   },
   {
     "id": "3",
@@ -33,13 +33,13 @@
     "location": "Rodeo Drive & Wilshire Blvd",
     "zone": "Beverly Hills",
     "status": "online",
-    "videoUrl": "https://live4.brownrice.com:444/westland/westland.stream/chunklist_w614847154.m3u8",
-    "type": "stream",
+    "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+    "type": "mp4",
     "coordinates": {
       "lat": 300,
       "lng": 450
     },
-    "lastUpdate": "04/03/2026 14:53:21"
+    "lastUpdate": "01/05/2026 12:21:34"
   },
   {
     "id": "4",
@@ -53,6 +53,6 @@
       "lat": 450,
       "lng": 150
     },
-    "lastUpdate": "04/03/2026 14:42:43"
+    "lastUpdate": "01/05/2026 12:21:34"
   }
 ]
