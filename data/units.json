@@ -26,5 +26,22 @@
       "year": "2002"
     },
     "radioFrequency": "71.000 MHz"
+  },
+  {
+    "id": "1777709896466",
+    "callSign": "Unit-2",
+    "status": "10-7",
+    "location": {
+      "lat": 300,
+      "lng": 300
+    },
+    "officers": [],
+    "vehicle": {
+      "make": "",
+      "model": "",
+      "plate": "",
+      "year": ""
+    },
+    "radioFrequency": "460.000 MHz"
   }
 ]
