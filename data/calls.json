@@ -2,11 +2,11 @@
   {
     "id": "1777638414915",
     "code": "10-56",
-    "description": "Vol de véhicule",
+    "description": "Vol de vÃ©hicule",
     "address": "28 Street Long Beach LS, SA",
     "priority": "high",
     "time": "14:26",
-    "status": "assigned",
+    "status": "completed",
     "assignedUnit": "1777638422771"
   }
 ]
