@@ -32,5 +32,30 @@
     "createdAt": "2026-03-05T15:32:37.067Z",
     "createdBy": "7191",
     "updatedAt": "2026-05-01T10:20:59.320Z"
+  },
+  {
+    "id": "4f873aca-eecb-424d-9260-a1095cf29fc2",
+    "caseNumber": "CASE-1777709973660",
+    "title": "Traffic de Drogue",
+    "description": "N/A",
+    "division": "597fdc9c-8684-4fca-a786-42fe846ba402",
+    "assignedTo": "7191",
+    "status": "Ouvert",
+    "priority": "Haute",
+    "suspects": [],
+    "vehicles": [],
+    "properties": [],
+    "evidence": [],
+    "externalResources": [],
+    "timeline": [
+      {
+        "date": "2026-05-02T08:19:33.660Z",
+        "event": "Dossier créé",
+        "officer": "7191"
+      }
+    ],
+    "createdAt": "2026-05-02T08:19:33.660Z",
+    "createdBy": "7191",
+    "updatedAt": "2026-05-02T08:19:33.660Z"
   }
 ]
