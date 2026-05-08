@@ -1,11 +1,11 @@
 [
   {
     "id": "2024-001",
-    "title": "Vol de véhicule",
+    "title": "Vol de vÃ©hicule",
     "type": "Arrest",
     "content": {
       "location": "La zona Long Beach LS, SA",
-      "description": "Nous avons été appelez pour un vol de véhicule par l'entreprise La Zona se situant au 28 Street Greater Long Beach, a notre arrivé nous avons surpris Mme Alex Mason entrain d'utiliser un outil de crochetage sur un véhicule [Penombra RS rouge].",
+      "description": "Nous avons Ã©tÃ© appelez pour un vol de vÃ©hicule par l'entreprise La Zona se situant au 28 Street Greater Long Beach, a notre arrivÃ© nous avons surpris Mme Alex Mason entrain d'utiliser un outil de crochetage sur un vÃ©hicule [Penombra RS rouge].",
       "involved": [
         {
           "personId": "a2f30e52-f77d-4449-96f2-77a828da7f94",
@@ -33,5 +33,32 @@
     "officerBadge": "captain-002",
     "date": "01/05/2026",
     "time": "12:13"
+  },
+  {
+    "id": "2024-002",
+    "title": "",
+    "type": "Incident",
+    "content": {
+      "location": "",
+      "description": "@Alex Masson (SSN: 513-ID-5896) ",
+      "involved": [],
+      "witnesses": ""
+    },
+    "visibility": {
+      "ranks": [
+        "admin",
+        "detective",
+        "officer"
+      ],
+      "divisions": [
+        ""
+      ]
+    },
+    "division": "",
+    "status": "submitted",
+    "officer": "Unknown",
+    "officerBadge": "7191",
+    "date": "08/05/2026",
+    "time": "15:37"
   }
 ]
