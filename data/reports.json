@@ -60,32 +60,5 @@
     "officerBadge": "7191",
     "date": "08/05/2026",
     "time": "15:37"
-  },
-  {
-    "id": "2024-003",
-    "title": "",
-    "type": "Incident",
-    "content": {
-      "location": "",
-      "description": "",
-      "involved": [],
-      "witnesses": ""
-    },
-    "visibility": {
-      "ranks": [
-        "admin",
-        "detective",
-        "officer"
-      ],
-      "divisions": [
-        ""
-      ]
-    },
-    "division": "",
-    "status": "draft",
-    "officer": "Unknown",
-    "officerBadge": "7191",
-    "date": "08/05/2026",
-    "time": "15:41"
   }
 ]
