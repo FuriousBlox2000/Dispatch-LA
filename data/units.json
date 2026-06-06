@@ -17,6 +17,11 @@
         "matricule": "20",
         "name": "Lewis Atkins",
         "rank": "Police Officer I"
+      },
+      {
+        "matricule": "01",
+        "name": "Ashton Atkins",
+        "rank": "captain"
       }
     ],
     "vehicle": {
